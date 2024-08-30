@@ -1,4 +1,5 @@
 # CAPP Camp Python Workflow Lab
+Riley Morrison
 
 The goal of this lab is to help you become more comfortable with working with Python, and the workflow introduced today.
 
